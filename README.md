@@ -30,5 +30,15 @@ A fully functional and interactive event calendar built with **React.js**. This 
 
 ---
 
+## 🔧 Installation
 
+### 1. Clone the repository
+git clone https://github.com/your-username/event-calendar-app.git
+cd event-calendar-app
+### 2. Install dependencies
+npm install
+### 3. Start the app
+npm start
+
+App will run at http://localhost:3000
 
