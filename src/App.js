@@ -221,7 +221,7 @@ function App() {
             <label>Title:
               <input type="text" value={formState.title} onChange={(e) => setFormState({ ...formState, title: e.target.value })} required />
             </label>
-            <label>Time:
+            <label>Time (HH:MM AM/PM):
               <input type="time" value={formState.time} onChange={(e) => setFormState({ ...formState, time: e.target.value })} required />
             </label>
             <label>Description:
